@@ -1,0 +1,43 @@
+_repo: Wappin-WharfA-Frightful-Comedy-of-Pirates_24914
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Hatfield, Gordon
+    gutenberg_agent_id: '26825'
+    url: http://www.gutenberg.org/2009/agents/26825
+  illustrator:
+    agent_name: Flory, Julia McCune
+    birthdate: 1882
+    deathdate: 1971
+    gutenberg_agent_id: '26810'
+    url: http://www.gutenberg.org/2009/agents/26810
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Brooks, Charles S. (Charles Stephen)
+    aliases:
+    - Brooks, Charles Stephen
+    - Brooks, C. S. (Charles Stephen)
+    birthdate: 1878
+    deathdate: 1934
+    gutenberg_agent_id: '3268'
+    url: http://www.gutenberg.org/2009/agents/3268
+description: ''
+gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
+gutenberg_issued: '2008-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24914'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Comedies'
+- !lcsh 'American drama'
+- !lcsh 'Pirates -- Drama'
+title: 'Wappin'' Wharf: A Frightful Comedy of Pirates'
+url: http://www.gutenberg.org/ebooks/24914
